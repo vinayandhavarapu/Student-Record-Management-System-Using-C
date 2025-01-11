@@ -16,7 +16,7 @@
 //structure to store date
 typedef struct
 {
-    int yyyy;
+    int yyyyyy;
     int mm;
     int dd;
 } Date;
